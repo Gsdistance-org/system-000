@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>system_000</RootNamespace>
-    <Win32Resource>C:\Users\MÜRVET YÜZDEN ŞEN\Pictures\inst\sys-000\000.res</Win32Resource>
+    <Win32Resource>C:\Users\MÜRVET YÜZDEN ŞEN\source\repos\system-000\system-000\storage\{[stu][stu]}\lib\000.res</Win32Resource>
   </PropertyGroup>
 
   <ItemGroup>
