@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="dll\" />
+    <Folder Include="dll\İ-O\" />
     <Folder Include="ico\" />
     <Folder Include="storage\{[stu][stu]}\lib\icons\" />
     <Folder Include="sys\" />
