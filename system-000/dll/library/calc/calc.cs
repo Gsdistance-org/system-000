@@ -27,5 +27,10 @@ namespace system_000.dll.library.calc
         {
             return num1 * num2;
         }
+
+        public static double num(double num1, double num2)
+        {
+            return num1 * num2;
+        }
     }
 }
