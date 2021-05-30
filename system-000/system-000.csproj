@@ -13,6 +13,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="dll\game\mapper\parser\undersetup\1\" />
+    <Folder Include="dll\game\mapper\parser\undersetup\2\" />
     <Folder Include="dll\library\İ-O\" />
     <Folder Include="ico\" />
     <Folder Include="storage\{[stu][stu]}\lib\icons\" />
