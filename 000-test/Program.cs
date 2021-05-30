@@ -1,5 +1,5 @@
 ﻿using System;
-using system_000.dll.library.calc.calc;
+using static system_000.dll.library.calc.calc;
 
 namespace _000_test
 {
@@ -7,8 +7,9 @@ namespace _000_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Functions.
+            Console.WriteLine(Functions.add(4, 74));
+            Console.ReadKey();
+            
         }
     }
 }

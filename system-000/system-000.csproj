@@ -8,6 +8,10 @@
     <Version>1.0.8</Version>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\MÜRVET YÜZDEN ŞEN\source\repos\system-000\system-000\system-000.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <Folder Include="dll\library\İ-O\" />
     <Folder Include="ico\" />
