@@ -11,7 +11,7 @@ namespace system_000.dll.game.mapper
 {
     public class Setup
     {
-        public static double start(double name, double extra)
+        public static double Start(double name, double extra)
         {
             var timeelapse = 1;
             Console.WriteLine("Setting up mapper parser for" + name);
@@ -19,7 +19,8 @@ namespace system_000.dll.game.mapper
             Console.WriteLine("..");
             Console.WriteLine("...");
             Console.WriteLine("....");
-            Console.WriteLine("Done in"+ timeelapse);
+            Console.WriteLine("Done in" + timeelapse);
+            return name;
         }
     }
 }
