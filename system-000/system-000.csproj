@@ -18,6 +18,7 @@
     <Folder Include="dll\library\İ-O\" />
     <Folder Include="ico\" />
     <Folder Include="storage\{[stu][stu]}\lib\icons\" />
+    <Folder Include="sys\000\Gui\" />
   </ItemGroup>
 
 </Project>
