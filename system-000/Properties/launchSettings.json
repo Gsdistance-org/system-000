@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "system-000": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "licence type": "free"
+      }
+    }
+  }
+}

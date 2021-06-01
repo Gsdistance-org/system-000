@@ -6,10 +6,18 @@
     <Win32Resource>C:\Users\MÜRVET YÜZDEN ŞEN\source\repos\system-000\system-000\storage\{[stu][stu]}\lib\000.res</Win32Resource>
     <SignAssembly>false</SignAssembly>
     <Version>1.0.8</Version>
+    <Product>000</Product>
+    <Copyright>The-distance 2020 (C)</Copyright>
+    <PackageLicenseFile>licence.md</PackageLicenseFile>
+    <PackageIcon>000logo.png</PackageIcon>
+    <PackageReleaseNotes>New icons and library's</PackageReleaseNotes>
+    <RepositoryType>H2</RepositoryType>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile>C:\Users\MÜRVET YÜZDEN ŞEN\source\repos\system-000\system-000\system-000.xml</DocumentationFile>
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,6 +26,17 @@
     <Folder Include="dll\library\İ-O\" />
     <Folder Include="ico\" />
     <Folder Include="storage\{[stu][stu]}\lib\icons\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="storage\{[stu][stu]}\lib\000logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="storage\{[stu][stu]}\lib\licence.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
